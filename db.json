@@ -4,36 +4,36 @@
             "name": "Aalborg",
             "cars": [
                 {  
-                    "id": 0,
-                    "price": 0.0,
-                    "manufacture": "",
-                    "name": "",
-                    "transmission": "",
-                    "seats": 0
+                    "id": 1,
+                    "price": 568.28,
+                    "manufacturer": "Renault",
+                    "name": "Zoe Electric",
+                    "transmission": "Automatic",
+                    "seats": 4
                 },
                 {
-                    "id": 4316,
+                    "id": 2,
                     "price": 492.79,
                     "manufacturer": "Hyundai",
                     "name": "i30 SW",
                     "transmission": "Manual",
                     "seats": 5
                 },
-                {
-                    "id": 7908,
-                    "price": 0.0,
-                    "manufacturer": "",
-                    "name": "",
-                    "transmission": "",
-                    "seats": 0
-                }
+                {  
+                    "id": 6,
+                    "price": 846.05,
+                    "manufacturer": "Toyota",
+                    "name": "Rav4",
+                    "transmission": "Automatic",
+                    "seats": 5  
+                },
             ]
         },
         {
             "name": "Aarhus",
             "cars": [
                 {  
-                    "id": 7461,
+                    "id": 1,
                     "price": 721.64,
                     "manufacturer": "Hyundai",
                     "name": "i30 SW",
@@ -53,16 +53,8 @@
         {
             "name": "Copenhagen",
             "cars": [
-                {
-                    "id": 1,
-                    "price": 24.1,
-                    "name": "Lancer",
-                    "manufacturer": "Mitsubishi",
-                    "transmission": "",
-                    "seats": ""                    
-                },
                 {  
-                    "id": 2,
+                    "id": 1,
                     "price": 341.48,
                     "manufacturer": "Opel",
                     "name": "Corsa",
@@ -70,7 +62,7 @@
                     "seats": 5
                 },
                 {  
-                    "id": 3,
+                    "id": 2,
                     "price": 376.91,
                     "manufacturer": "Kia",
                     "name": "Ceed",
@@ -78,7 +70,7 @@
                     "seats": 5
                 },
                 {  
-                    "id": 4,
+                    "id": 3,
                     "price": 568.28,
                     "manufacturer": "Renault",
                     "name": "Zoe Electric",
@@ -86,7 +78,7 @@
                     "seats": 4
                 },
                 {  
-                    "id": 5,
+                    "id": 4,
                     "price": 646.23,
                     "manufacturer": "Skoda",
                     "name": "Octavia SW",
@@ -94,7 +86,7 @@
                     "seats": 5
                 },
                 {  
-                    "id": 6,
+                    "id": 5,
                     "price": 929.73,
                     "manufacturer": "BMW",
                     "name": "2 Series",
@@ -102,7 +94,7 @@
                     "seats": 4
                 },
                 {  
-                    "id": 7,
+                    "id": 6,
                     "price": 846.05,
                     "manufacturer": "Toyota",
                     "name": "Rav4",
@@ -110,7 +102,7 @@
                     "seats": 5  
                 },
                 {  
-                    "id": 8,
+                    "id": 7,
                     "price": 1731.88,
                     "manufacturer": "Skoda",
                     "name": "Octavia SW",
