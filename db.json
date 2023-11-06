@@ -2,6 +2,7 @@
     "cities": [
         {
             "city": "Aalborg",
+            "city_id": 1,
             "cars": [
                 {
                     "id": 1,
@@ -31,6 +32,7 @@
         },
         {
             "city": "Aarhus",
+            "city_id": 2,
             "cars": [
                 {
                     "id": 1,
@@ -52,6 +54,7 @@
         },
         {
             "city": "Copenhagen",
+            "city_id": 3,
             "cars": [
                 {
                     "id": 1,
@@ -113,6 +116,7 @@
         },
         {
             "city": "Odense",
+            "city_id": 4,
             "cars": [
                 {
                     "id": 1,
