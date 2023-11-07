@@ -132,5 +132,11 @@
 			"seats": 5,
 			"image": "require('../../assets/cars/kia-ceed.png')"
 		}
-    ]
+    	],
+	"cities": {
+		"name1": "Aalborg",
+		"name2": "Aarhus",
+		"name3": "Copenhagen",
+		"name4": "Odense"
+	}
 }
