@@ -1,154 +1,136 @@
 {
-    "cities": [
-        {
-            "id": 1,
-            "city": "Aalborg",
-            "cars": [
-                {
-                    "id": 1,
-                    "price": 568.28,
-                    "brand": "Renault",
-                    "model": "Zoe Electric",
-                    "transmission": "Automatic",
-                    "seats": 4,
-                    "image": "require('../../assets/cars/renault-zoe-electric.png')"
-                },
-                {
-                    "id": 2,
-                    "price": 492.79,
-                    "brand": "Hyundai",
-                    "model": "i30 SW",
-                    "transmission": "Manual",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/hyundai-i30-sw.png')"
-                },
-                {
-                    "id": 3,
-                    "price": 846.05,
-                    "brand": "Toyota",
-                    "model": "Rav4",
-                    "transmission": "Automatic",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/toyota-rav4.png')"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "city": "Aarhus",
-            "cars": [
-                {
-                    "id": 4,
-                    "price": 721.64,
-                    "brand": "Hyundai",
-                    "model": "i30 SW",
-                    "transmission": "Manual",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/hyundai-i30-sw.png')"
-                },
-                {
-                    "id": 5,
-                    "price": 507.13,
-                    "brand": "Kia",
-                    "model": "Picanto",
-                    "transmission": "Manual",
-                    "seats": 4,
-                    "image": "require('../../assets/cars/kia-picanto.png')"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "city": "Copenhagen",
-            "cars": [
-                {
-                    "id": 6,
-                    "price": 341.48,
-                    "brand": "Opel",
-                    "model": "Corsa",
-                    "transmission": "Manual",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/opel-corsa.png')"
-                },
-                {
-                    "id": 7,
-                    "price": 21.37,
-                    "brand": "Volkswagen",
-                    "model": "Passat",
-                    "transmission": "Manual",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/volkswagen-passat.png')"
-                },
-                {
-                    "id": 8,
-                    "price": 568.28,
-                    "brand": "Renault",
-                    "model": "Zoe Electric",
-                    "transmission": "Automatic",
-                    "seats": 4,
-                    "image": "require('../../assets/cars/renault-zoe-electric.png')"
-                },
-                {
-                    "id": 9,
-                    "price": 646.23,
-                    "brand": "Skoda",
-                    "model": "Octavia SW",
-                    "transmission": "Manual",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
-                },
-                {
-                    "id": 10,
-                    "price": 929.73,
-                    "brand": "BMW",
-                    "model": "2 Series",
-                    "transmission": "Automatic",
-                    "seats": 4,
-                    "image": "require('../../assets/cars/bmw-2-series.png')"
-                },
-                {
-                    "id": 11,
-                    "price": 846.05,
-                    "brand": "Toyota",
-                    "model": "Rav4",
-                    "transmission": "Automatic",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/toyota-rav4.png')"
-                },
-                {
-                    "id": 12,
-                    "price": 1731.88,
-                    "brand": "Skoda",
-                    "model": "Octavia SW",
-                    "transmission": "Automatic",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "city": "Odense",
-            "cars": [
-                {
-                    "id": 13,
-                    "price": 1731.88,
-                    "brand": "Skoda",
-                    "model": "Octavia SW",
-                    "transmission": "Automatic",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
-                },
-                {
-                    "id": 14,
-                    "price": 376.91,
-                    "brand": "Kia",
-                    "model": "Ceed",
-                    "transmission": "Automatic",
-                    "seats": 5,
-                    "image": "require('../../assets/cars/kia-ceed.png')"
-                }
-            ]
-        }
+	"Aalborg": [
+		{
+			"id": 1,
+			"price": 568.28,
+			"brand": "Renault",
+			"model": "Zoe Electric",
+			"transmission": "Automatic",
+			"seats": 4,
+			"image": "require('../../assets/cars/renault-zoe-electric.png')"
+		},
+		{
+			"id": 2,
+			"price": 492.79,
+			"brand": "Hyundai",
+			"model": "i30 SW",
+			"transmission": "Manual",
+			"seats": 5,
+			"image": "require('../../assets/cars/hyundai-i30-sw.png')"
+		},
+		{
+			"id": 3,
+			"price": 846.05,
+			"brand": "Toyota",
+			"model": "Rav4",
+			"transmission": "Automatic",
+			"seats": 5,
+			"image": "require('../../assets/cars/toyota-rav4.png')"
+		}
+	],
+	"Aarhus": [
+		{
+			"id": 1,
+			"price": 721.64,
+			"brand": "Hyundai",
+			"model": "i30 SW",
+			"transmission": "Manual",
+			"seats": 5,
+			"image": "require('../../assets/cars/hyundai-i30-sw.png')"
+		},
+		{
+			"id": 2,
+			"price": 507.13,
+			"brand": "Kia",
+			"model": "Picanto",
+			"transmission": "Manual",
+			"seats": 4,
+			"image": "require('../../assets/cars/kia-picanto.png')"
+		}
+	],
+	"Copenhagen": [
+		{
+			"id": 1,
+			"price": 341.48,
+			"brand": "Opel",
+			"model": "Corsa",
+			"transmission": "Manual",
+			"seats": 5,
+			"image": "require('../../assets/cars/opel-corsa.png')"
+		},
+		{
+			"id": 2,
+			"price": 21.37,
+			"brand": "Volkswagen",
+			"model": "Passat",
+			"transmission": "Manual",
+			"seats": 5,
+			"image": "require('../../assets/cars/volkswagen-passat.png')"
+		},
+		{
+			"id": 3,
+			"price": 568.28,
+			"brand": "Renault",
+			"model": "Zoe Electric",
+			"transmission": "Automatic",
+			"seats": 4,
+			"image": "require('../../assets/cars/renault-zoe-electric.png')"
+		},
+		{
+			"id": 4,
+			"price": 646.23,
+			"brand": "Skoda",
+			"model": "Octavia SW",
+			"transmission": "Manual",
+			"seats": 5,
+			"image": "require('../../assets/cars/skoda-octavia-sw.png')"
+		},
+		{
+			"id": 5,
+			"price": 929.73,
+			"brand": "BMW",
+			"model": "2 Series",
+			"transmission": "Automatic",
+			"seats": 4,
+			"image": "require('../../assets/cars/bmw-2-series.png')"
+		},
+		{
+			"id": 6,
+			"price": 846.05,
+			"brand": "Toyota",
+			"model": "Rav4",
+			"transmission": "Automatic",
+			"seats": 5,
+			"image": "require('../../assets/cars/toyota-rav4.png')"
+		},
+		{
+			"id": 7,
+			"price": 1731.88,
+			"brand": "Skoda",
+			"model": "Octavia SW",
+			"transmission": "Automatic",
+			"seats": 5,
+			"image": "require('../../assets/cars/skoda-octavia-sw.png')"
+		}
+	],
+	"Odense": [
+		{
+			"id": 1,
+			"price": 1731.88,
+			"brand": "Skoda",
+			"model": "Octavia SW",
+			"transmission": "Automatic",
+			"seats": 5,
+			"image": "require('../../assets/cars/skoda-octavia-sw.png')"
+		},
+		{
+			"id": 2,
+			"price": 376.91,
+			"brand": "Kia",
+			"model": "Ceed",
+			"transmission": "Automatic",
+			"seats": 5,
+			"image": "require('../../assets/cars/kia-ceed.png')"
+		}
     ]
 }
