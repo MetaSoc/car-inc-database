@@ -11,7 +11,7 @@
                     "model": "Zoe Electric",
                     "transmission": "Automatic",
                     "seats": 4,
-                    "image": require('../../assets/cars/renault-zoe-electric.png')
+                    "image": "require('../../assets/cars/renault-zoe-electric.png')"
                 },
                 {
                     "id": 2,
@@ -20,7 +20,7 @@
                     "model": "i30 SW",
                     "transmission": "Manual",
                     "seats": 5,
-                    "image": require('../../assets/cars/hyundai-i30-sw.png')
+                    "image": "require('../../assets/cars/hyundai-i30-sw.png')"
                 },
                 {
                     "id": 3,
@@ -29,7 +29,7 @@
                     "model": "Rav4",
                     "transmission": "Automatic",
                     "seats": 5,
-                    "image": require('../../assets/cars/toyota-rav4.png')
+                    "image": "require('../../assets/cars/toyota-rav4.png')"
                 }
             ]
         },
@@ -44,7 +44,7 @@
                     "model": "i30 SW",
                     "transmission": "Manual",
                     "seats": 5,
-                    "image": require('../../assets/cars/hyundai-i30-sw.png')
+                    "image": "require('../../assets/cars/hyundai-i30-sw.png')"
                 },
                 {
                     "id": 5,
@@ -53,7 +53,7 @@
                     "model": "Picanto",
                     "transmission": "Manual",
                     "seats": 4,
-                    "image": require('../../assets/cars/kia-picanto.png')
+                    "image": "require('../../assets/cars/kia-picanto.png')"
                 }
             ]
         },
@@ -68,7 +68,7 @@
                     "model": "Corsa",
                     "transmission": "Manual",
                     "seats": 5,
-                    "image": require('../../assets/cars/opel-corsa.png')
+                    "image": "require('../../assets/cars/opel-corsa.png')"
                 },
                 {
                     "id": 7,
@@ -77,7 +77,7 @@
                     "model": "Passat",
                     "transmission": "Manual",
                     "seats": 5,
-                    "image": require('../../assets/cars/volkswagen-passat.png')
+                    "image": "require('../../assets/cars/volkswagen-passat.png')"
                 },
                 {
                     "id": 8,
@@ -86,7 +86,7 @@
                     "model": "Zoe Electric",
                     "transmission": "Automatic",
                     "seats": 4,
-                    "image": require('../../assets/cars/renault-zoe-electric.png')
+                    "image": "require('../../assets/cars/renault-zoe-electric.png')"
                 },
                 {
                     "id": 9,
@@ -95,7 +95,7 @@
                     "model": "Octavia SW",
                     "transmission": "Manual",
                     "seats": 5,
-                    "image": require('../../assets/cars/skoda-octavia-sw.png')
+                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
                 },
                 {
                     "id": 10,
@@ -104,7 +104,7 @@
                     "model": "2 Series",
                     "transmission": "Automatic",
                     "seats": 4,
-                    "image": require('../../assets/cars/bmw-2-series.png')
+                    "image": "require('../../assets/cars/bmw-2-series.png')"
                 },
                 {
                     "id": 11,
@@ -113,7 +113,7 @@
                     "model": "Rav4",
                     "transmission": "Automatic",
                     "seats": 5,
-                    "image": require('../../assets/cars/toyota-rav4.png')
+                    "image": "require('../../assets/cars/toyota-rav4.png')"
                 },
                 {
                     "id": 12,
@@ -122,7 +122,7 @@
                     "model": "Octavia SW",
                     "transmission": "Automatic",
                     "seats": 5,
-                    "image": require('../../assets/cars/skoda-octavia-sw.png')
+                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
                 }
             ]
         },
@@ -137,7 +137,7 @@
                     "model": "Octavia SW",
                     "transmission": "Automatic",
                     "seats": 5,
-                    "image": require('../../assets/cars/skoda-octavia-sw.png')
+                    "image": "require('../../assets/cars/skoda-octavia-sw.png')"
                 },
                 {
                     "id": 14,
@@ -146,7 +146,7 @@
                     "model": "Ceed",
                     "transmission": "Automatic",
                     "seats": 5,
-                    "image": require('../../assets/cars/kia-ceed.png')
+                    "image": "require('../../assets/cars/kia-ceed.png')"
                 }
             ]
         }
