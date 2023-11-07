@@ -135,16 +135,20 @@
     	],
 	"cities": [
 		{
-		"name": "Aalborg"
+			"id": 1,
+			"name": "Aalborg"
 		},
 		{
-		"name": "Aarhus"
+			"id": 2,
+			"name": "Aarhus"
 		},
 		{
-		"name": "Copenhagen"
+			"id": 3,
+			"name": "Copenhagen"
 		},
 		{
-		"name": "Odense"
+			"id": 4,
+			"name": "Odense"
 		}
 	]
 }
