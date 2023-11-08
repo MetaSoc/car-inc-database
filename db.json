@@ -6,8 +6,7 @@
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
-			"seats": 4,
-			"image": "renault-zoe-electric.png"
+			"seats": 4
 		},
 		{
 			"id": 2,
@@ -15,8 +14,7 @@
 			"brand": "Hyundai",
 			"model": "i30 SW",
 			"transmission": "Manual",
-			"seats": 5,
-			"image": "hyundai-i30-sw.png"
+			"seats": 5
 		},
 		{
 			"id": 3,
@@ -24,8 +22,7 @@
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
-			"seats": 5,
-			"image": "toyota-rav4.png"
+			"seats": 5
 		}
 	],
 	"Aarhus": [
@@ -35,8 +32,7 @@
 			"brand": "Hyundai",
 			"model": "i30 SW",
 			"transmission": "Manual",
-			"seats": 5,
-			"image": "hyundai-i30-sw.png"
+			"seats": 5
 		},
 		{
 			"id": 2,
@@ -44,8 +40,7 @@
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
-			"seats": 4,
-			"image": "kia-picanto.png"
+			"seats": 4
 		}
 	],
 	"Copenhagen": [
@@ -55,8 +50,7 @@
 			"brand": "Opel",
 			"model": "Corsa",
 			"transmission": "Manual",
-			"seats": 5,
-			"image": "opel-corsa.png"
+			"seats": 5
 		},
 		{
 			"id": 2,
@@ -64,8 +58,7 @@
 			"brand": "Volkswagen",
 			"model": "Passat",
 			"transmission": "Manual",
-			"seats": 5,
-			"image": "volkswagen-passat.png"
+			"seats": 5
 		},
 		{
 			"id": 3,
@@ -73,8 +66,7 @@
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
-			"seats": 4,
-			"image": "renault-zoe-electric.png"
+			"seats": 4
 		},
 		{
 			"id": 4,
@@ -82,8 +74,7 @@
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Manual",
-			"seats": 5,
-			"image": "skoda-octavia-sw.png"
+			"seats": 5
 		},
 		{
 			"id": 5,
@@ -91,8 +82,7 @@
 			"brand": "BMW",
 			"model": "2 Series",
 			"transmission": "Automatic",
-			"seats": 4,
-			"image": "bmw-2-series.png"
+			"seats": 4
 		},
 		{
 			"id": 6,
@@ -100,8 +90,7 @@
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
-			"seats": 5,
-			"image": "toyota-rav4.png"
+			"seats": 5
 		},
 		{
 			"id": 7,
@@ -109,8 +98,7 @@
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Automatic",
-			"seats": 5,
-			"image": "skoda-octavia-sw.png"
+			"seats": 5
 		}
 	],
 	"Odense": [
@@ -120,8 +108,7 @@
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Automatic",
-			"seats": 5,
-			"image": "skoda-octavia-sw.png"
+			"seats": 5
 		},
 		{
 			"id": 2,
@@ -129,8 +116,7 @@
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
-			"seats": 5,
-			"image": "kia-ceed.png"
+			"seats": 5
 		}
     	],
 	"cities": [
