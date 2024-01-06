@@ -2,19 +2,19 @@
 	"Aalborg": [
 		{
 			"id": 1,
-			"price": 568.28,
-			"brand": "Renault",
-			"model": "Zoe Electric",
-			"transmission": "Automatic",
-			"seats": 4
-		},
-		{
-			"id": 2,
 			"price": 492.79,
 			"brand": "Hyundai",
 			"model": "i30 SW",
 			"transmission": "Manual",
 			"seats": 5
+		},
+		{
+			"id": 2,
+			"price": 568.28,
+			"brand": "Renault",
+			"model": "Zoe Electric",
+			"transmission": "Automatic",
+			"seats": 4
 		},
 		{
 			"id": 3,
@@ -28,32 +28,24 @@
 	"Aarhus": [
 		{
 			"id": 1,
-			"price": 721.64,
-			"brand": "Hyundai",
-			"model": "i30 SW",
-			"transmission": "Manual",
-			"seats": 5
-		},
-		{
-			"id": 2,
 			"price": 507.13,
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
 			"seats": 4
+		},
+		{
+			"id": 2,
+			"price": 721.64,
+			"brand": "Hyundai",
+			"model": "i30 SW",
+			"transmission": "Manual",
+			"seats": 5
 		}
 	],
 	"Copenhagen": [
 		{
 			"id": 1,
-			"price": 341.48,
-			"brand": "Opel",
-			"model": "Corsa",
-			"transmission": "Manual",
-			"seats": 5
-		},
-		{
-			"id": 2,
 			"price": 21.37,
 			"brand": "Volkswagen",
 			"model": "Passat",
@@ -61,7 +53,23 @@
 			"seats": 5
 		},
 		{
+			"id": 2,
+			"price": 341.48,
+			"brand": "Opel",
+			"model": "Corsa",
+			"transmission": "Manual",
+			"seats": 5
+		},
+		{
 			"id": 3,
+			"price": 492.79,
+			"brand": "Hyundai",
+			"model": "i30 SW",
+			"transmission": "Manual",
+			"seats": 5
+		},
+		{
+			"id": 4,
 			"price": 568.28,
 			"brand": "Renault",
 			"model": "Zoe Electric",
@@ -69,20 +77,12 @@
 			"seats": 4
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"price": 646.23,
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Manual",
 			"seats": 5
-		},
-		{
-			"id": 5,
-			"price": 929.73,
-			"brand": "BMW",
-			"model": "2 Series",
-			"transmission": "Automatic",
-			"seats": 4
 		},
 		{
 			"id": 6,
@@ -94,27 +94,27 @@
 		},
 		{
 			"id": 7,
-			"price": 1731.88,
-			"brand": "Skoda",
-			"model": "Octavia SW",
+			"price": 929.73,
+			"brand": "BMW",
+			"model": "2 Series",
 			"transmission": "Automatic",
-			"seats": 5
+			"seats": 4
 		}
 	],
 	"Odense": [
 		{
 			"id": 1,
-			"price": 1731.88,
-			"brand": "Skoda",
-			"model": "Octavia SW",
+			"price": 376.91,
+			"brand": "Kia",
+			"model": "Ceed",
 			"transmission": "Automatic",
 			"seats": 5
 		},
 		{
 			"id": 2,
-			"price": 376.91,
-			"brand": "Kia",
-			"model": "Ceed",
+			"price": 646.23,
+			"brand": "Skoda",
+			"model": "Octavia SW",
 			"transmission": "Automatic",
 			"seats": 5
 		}
