@@ -117,6 +117,14 @@
 			"model": "Octavia SW",
 			"transmission": "Automatic",
 			"seats": 5
+		},
+		{
+			"id": 3,
+			"price": 825.39,
+			"brand": "Ford",
+			"model": "Mustang GT",
+			"transmission": "Automatic",
+			"seats": 2
 		}
     	],
 	"cities": [
