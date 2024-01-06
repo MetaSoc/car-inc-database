@@ -4,7 +4,7 @@
 			"id": 1,
 			"price": 492.79,
 			"brand": "Hyundai",
-			"model": "i30 SW",
+			"model": "i30 Wagon",
 			"transmission": "Manual",
 			"seats": 5
 		},
@@ -28,7 +28,7 @@
 	"Aarhus": [
 		{
 			"id": 1,
-			"price": 507.13,
+			"price": 307.13,
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
@@ -36,9 +36,9 @@
 		},
 		{
 			"id": 2,
-			"price": 721.64,
+			"price": 492.79,
 			"brand": "Hyundai",
-			"model": "i30 SW",
+			"model": "i30 Wagon",
 			"transmission": "Manual",
 			"seats": 5
 		}
@@ -64,7 +64,7 @@
 			"id": 3,
 			"price": 492.79,
 			"brand": "Hyundai",
-			"model": "i30 SW",
+			"model": "i30 Wagon",
 			"transmission": "Manual",
 			"seats": 5
 		},
