@@ -2,11 +2,14 @@
 	"Aalborg": [
 		{
 			"id": 1,
-			"price": 492.79,
-			"brand": "Hyundai",
-			"model": "i30 Wagon",
-			"transmission": "Manual",
-			"seats": 5
+			"price": 376.91,
+			"brand": "Kia",
+			"model": "Ceed",
+			"transmission": "Automatic",
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 2,
@@ -14,7 +17,10 @@
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
-			"seats": 4
+			"seats": 4,
+			"doors": 3,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 3,
@@ -22,7 +28,10 @@
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 2,
+			"ac": "A/C"
 		}
 	],
 	"Aarhus": [
@@ -32,7 +41,10 @@
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
-			"seats": 4
+			"seats": 4,
+			"doors": 3,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 2,
@@ -40,7 +52,10 @@
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		}
 	],
 	"Copenhagen": [
@@ -50,7 +65,10 @@
 			"brand": "Volkswagen",
 			"model": "Passat",
 			"transmission": "Manual",
-			"seats": 5
+			"seats": 5,
+			"doors": 4,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 2,
@@ -58,7 +76,10 @@
 			"brand": "Opel",
 			"model": "Corsa",
 			"transmission": "Manual",
-			"seats": 5
+			"seats": 5,
+			"doors": 4,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 3,
@@ -66,7 +87,10 @@
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 4,
@@ -74,7 +98,10 @@
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
-			"seats": 4
+			"seats": 4,
+			"doors": 3,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 5,
@@ -82,7 +109,10 @@
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Manual",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 6,
@@ -90,7 +120,10 @@
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 2,
+			"ac": "A/C"
 		},
 		{
 			"id": 7,
@@ -98,7 +131,10 @@
 			"brand": "BMW",
 			"model": "2 Series",
 			"transmission": "Automatic",
-			"seats": 4
+			"seats": 4,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		}
 	],
 	"Odense": [
@@ -108,7 +144,10 @@
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 2,
@@ -116,7 +155,10 @@
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Automatic",
-			"seats": 5
+			"seats": 5,
+			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
 		},
 		{
 			"id": 3,
@@ -124,7 +166,10 @@
 			"brand": "Ford",
 			"model": "Mustang GT",
 			"transmission": "Automatic",
-			"seats": 2
+			"seats": 2,
+			"doors": 0,
+			"bags": 2,
+			"ac": "NO A/C"
 		}
     	],
 	"cities": [
