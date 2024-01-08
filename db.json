@@ -2,7 +2,7 @@
 	"Aalborg": [
 		{
 			"id": 1,
-			"price": 376.90,
+			"price": "376.90",
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 2,
-			"price": 568.20,
+			"price": "568.20",
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
@@ -24,7 +24,7 @@
 		},
 		{
 			"id": 3,
-			"price": 846.05,
+			"price": "846.95",
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
@@ -37,7 +37,7 @@
 	"Aarhus": [
 		{
 			"id": 1,
-			"price": 307.10,
+			"price": "307.10",
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
@@ -48,7 +48,7 @@
 		},
 		{
 			"id": 2,
-			"price": 492.80,
+			"price": "492.80",
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
@@ -59,7 +59,7 @@
 		},
 		{
 			"id": 3,
-			"price": 568.30,
+			"price": "568.30",
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
@@ -72,7 +72,7 @@
 	"Copenhagen": [
 		{
 			"id": 1,
-			"price": 21.37,
+			"price": "21.37",
 			"brand": "Volkswagen",
 			"model": "Passat",
 			"transmission": "Manual",
@@ -83,7 +83,7 @@
 		},
 		{
 			"id": 2,
-			"price": 341.50,
+			"price": "341.50",
 			"brand": "Opel",
 			"model": "Corsa",
 			"transmission": "Manual",
@@ -94,7 +94,7 @@
 		},
 		{
 			"id": 3,
-			"price": 492.80,
+			"price": "492.80",
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
@@ -105,7 +105,7 @@
 		},
 		{
 			"id": 4,
-			"price": 568.30,
+			"price": "568.30",
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
@@ -116,7 +116,7 @@
 		},
 		{
 			"id": 5,
-			"price": 646.20,
+			"price": "646.20",
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Manual",
@@ -127,7 +127,7 @@
 		},
 		{
 			"id": 6,
-			"price": 846.05,
+			"price": "846.05",
 			"brand": "Toyota",
 			"model": "Rav4",
 			"transmission": "Automatic",
@@ -138,7 +138,7 @@
 		},
 		{
 			"id": 7,
-			"price": 929.70,
+			"price": "929.70",
 			"brand": "BMW",
 			"model": "2 Series",
 			"transmission": "Automatic",
@@ -151,7 +151,7 @@
 	"Odense": [
 		{
 			"id": 1,
-			"price": 376.90,
+			"price": "376.90",
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
@@ -162,7 +162,7 @@
 		},
 		{
 			"id": 2,
-			"price": 646.20,
+			"price": "646.20",
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Automatic",
@@ -173,7 +173,7 @@
 		},
 		{
 			"id": 3,
-			"price": 825.40,
+			"price": "825.40",
 			"brand": "Ford",
 			"model": "Mustang GT",
 			"transmission": "Automatic",
