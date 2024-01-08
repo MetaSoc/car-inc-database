@@ -2,7 +2,7 @@
 	"Aalborg": [
 		{
 			"id": 1,
-			"price": 376.91,
+			"price": 376.90,
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 2,
-			"price": 568.28,
+			"price": 568.20,
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
@@ -37,7 +37,7 @@
 	"Aarhus": [
 		{
 			"id": 1,
-			"price": 307.13,
+			"price": 307.10,
 			"brand": "Kia",
 			"model": "Picanto",
 			"transmission": "Manual",
@@ -48,12 +48,23 @@
 		},
 		{
 			"id": 2,
-			"price": 492.79,
+			"price": 492.80,
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
 			"seats": 5,
 			"doors": 5,
+			"bags": 1,
+			"ac": "A/C"
+		}
+		{
+			"id": 3,
+			"price": 568.30,
+			"brand": "Renault",
+			"model": "Zoe Electric",
+			"transmission": "Automatic",
+			"seats": 4,
+			"doors": 3,
 			"bags": 1,
 			"ac": "A/C"
 		}
@@ -72,7 +83,7 @@
 		},
 		{
 			"id": 2,
-			"price": 341.48,
+			"price": 341.50,
 			"brand": "Opel",
 			"model": "Corsa",
 			"transmission": "Manual",
@@ -83,7 +94,7 @@
 		},
 		{
 			"id": 3,
-			"price": 492.79,
+			"price": 492.80,
 			"brand": "Hyundai",
 			"model": "i30 Wagon",
 			"transmission": "Manual",
@@ -94,7 +105,7 @@
 		},
 		{
 			"id": 4,
-			"price": 568.28,
+			"price": 568.30,
 			"brand": "Renault",
 			"model": "Zoe Electric",
 			"transmission": "Automatic",
@@ -105,7 +116,7 @@
 		},
 		{
 			"id": 5,
-			"price": 646.23,
+			"price": 646.20,
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Manual",
@@ -127,7 +138,7 @@
 		},
 		{
 			"id": 7,
-			"price": 929.73,
+			"price": 929.70,
 			"brand": "BMW",
 			"model": "2 Series",
 			"transmission": "Automatic",
@@ -140,7 +151,7 @@
 	"Odense": [
 		{
 			"id": 1,
-			"price": 376.91,
+			"price": 376.90,
 			"brand": "Kia",
 			"model": "Ceed",
 			"transmission": "Automatic",
@@ -151,7 +162,7 @@
 		},
 		{
 			"id": 2,
-			"price": 646.23,
+			"price": 646.20,
 			"brand": "Skoda",
 			"model": "Octavia SW",
 			"transmission": "Automatic",
@@ -162,7 +173,7 @@
 		},
 		{
 			"id": 3,
-			"price": 825.39,
+			"price": 825.40,
 			"brand": "Ford",
 			"model": "Mustang GT",
 			"transmission": "Automatic",
